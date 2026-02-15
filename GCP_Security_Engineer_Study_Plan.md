@@ -228,8 +228,8 @@ Unlike other GCP certs (like Associate Cloud Engineer), there is **no single com
 - [ ] SSL policies (minimum TLS version)
 
 **Network Segmentation**
-- [ ] VPC design — custom mode vs. auto mode
-- [ ] VPC Peering vs. Shared VPC — when to use which
+- [x] VPC design — custom mode vs. auto mode
+- [x] VPC Peering vs. Shared VPC — when to use which
 - [ ] Firewall rules: priority, direction, targets (tags vs. service accounts)
 - [ ] Service account-based firewall rules for N-tier isolation
 - [ ] **VPC Service Controls** — perimeters, access levels, bridges, ingress/egress rules, dry-run mode
